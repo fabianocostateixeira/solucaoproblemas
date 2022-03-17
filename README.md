@@ -29,6 +29,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 [Canvas de Proposta de Valor](https://github.com/fabianocostateixeira/solucaoproblemas/blob/main/canvaspropostavalor.md)
 
-[Protótipo de Telas] (https://github.com/fabianocostateixeira/solucaoproblemas/blob/main/prototipo.md)
+[Protótipo de Telas](https://github.com/fabianocostateixeira/solucaoproblemas/blob/main/prototipo.md)
 
 
